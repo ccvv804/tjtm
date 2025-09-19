@@ -43,7 +43,7 @@ def tjtm(r):
 print("")
 print("Project Level UPPER")
 print("UPPER KIT EXTRA 2")
-print("INEvangelion HAMGUARD (PROTOTYPE)")
 print("")
 rrr = sys.argv[1]
+
 tjtm(rrr)      
