@@ -1,10 +1,10 @@
-# tjtm (HAMGUARD)
+# tjtm
 TJT/TJV unpacker for TJ media M1 M2 and TKR-370HK karaoke update file
 <pre><code>python3 tjtm.py abc.tjt</code></pre>
 TJT files for the TKR-355HK/365HK/360CK and TKR-306P are not supported
 
 ## 개요
-햄가드는 TJ미디어 가정용 노래방기기 (노래반주기) M1과 M2 그리고 TKR-370HK 신곡 업데이트 파일 언패커 입니다.
+TJ미디어 가정용 노래방기기 (노래반주기) M1과 M2 그리고 TKR-370HK 신곡 업데이트 파일 언패커 입니다.
 
 TKR-355HK/365HK/360CK 같은 다른 TJT는 지원하지 않습니다.
 
